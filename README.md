@@ -23,10 +23,10 @@ You can also use `npm start` to start dev server without HMR
 
 ```
 src/
-    assets/          --> Global assets like theme.css
-    components/      --> Vue single file components
-    router/          --> App routes
-    store/           --> Vuex store files
+  assets/            --> Global assets like theme.css
+  components/        --> Vue single file components
+  router/            --> App routes
+  store/             --> Vuex store files
   main.js            --> Main app entry
   App.vue            --> Root component
 coverage/            --> Istanbul coverage report
